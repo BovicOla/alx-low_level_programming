@@ -1,0 +1,1 @@
+This is the continuation of the pointer, array and string funtions, the second chapter focuses on the string concatenation, coping of stings, comaparison between two strings and lost more on strings and array funtions. 
